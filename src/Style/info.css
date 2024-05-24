@@ -1,0 +1,9 @@
+.col-lg-6{
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+.col-sm-12, .col-md-6, .col-lg-6{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    border-radius: 20px 0px 0px 20px ;
+}

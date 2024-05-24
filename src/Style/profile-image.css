@@ -1,0 +1,10 @@
+#profile {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
